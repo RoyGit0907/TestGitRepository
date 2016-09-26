@@ -1,0 +1,1 @@
+It was added a new folder with some project example of Spring
